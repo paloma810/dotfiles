@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/machida/work/projects/python-docker/.git'
+let g:netrw_dirhist_5='/Users/machida/work/projects/python-docker/src/backend'
+let g:netrw_dirhist_4='/Users/machida/work/projects/python-docker/src'
+let g:netrw_dirhist_3='/Users/machida/work/projects/python-docker/.git'
+let g:netrw_dirhist_2='/Users/machida/work/projects/python-docker/src'
+let g:netrw_dirhist_1='/Users/machida/work/projects/python-docker/postgres/init'
